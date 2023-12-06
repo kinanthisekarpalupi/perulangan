@@ -1,4 +1,6 @@
 PERULANGAN
+Perulangan FOR, WHILE dan DO WHILE
+
 Di buat oleh :
 Kinanthi Sekar Palupi
 
